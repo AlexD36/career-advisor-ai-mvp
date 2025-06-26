@@ -1,4 +1,4 @@
-# Next Step — AI-Powered Career Advisor
+# Next Step: AI-Powered Career Advisor
 
 Next Step is a modern web application that helps users discover their career path or take meaningful steps toward advancing their professional life. Through a combination of AI, guided tools, and smart features, the platform supports users with career coaching, CV generation, interview preparation, and real-time job alerts.
 
